@@ -1,0 +1,10 @@
+git init - Initializes a new Git repository in the current directory
+git clone<url> - create a copy of an existing repository on your local machine
+git status - shows the current state of working directory and staging area
+git add <file> - add changes in the specified file to stagging area
+git commit-m "message" - saves the staged changes to repository with a message
+git log - display history of commits made in repository
+git push - uploads local commits to a remote repository
+git pull - fetches and merges changes from a remote repository into your local branch
+git branch - list,creates, or delete branches
+  git merge <branch> - combines changes from specified branch into current branch
